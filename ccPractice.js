@@ -11,14 +11,11 @@ var someFunc = function(num1){
 
 var adding = someFunc();
 
-
-
 // Invoke the someFunc function, and pass in a number value (Let's use number 9) as the argument. Assign the response to another variable called otherFunc.
 
 var otherFunc = adding(9);
 
 // When you are done, we can invoke the otherFunc function and pass in another number value as its argument. And we can do this as often as we like. Go ahead and uncomment out the following invocations.
-
 
 // otherFunc(10); // 19
 // otherFunc(26); // 35
