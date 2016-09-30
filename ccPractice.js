@@ -47,10 +47,10 @@ var counter = countSet();
 
 // Then whenever you need to count up, you can invoke the counter function. Go ahead and uncomment out the following invocations.
 //
-counter();//1
-counter();//2
-counter();//3
-counter();//4
+// counter();//1
+// counter();//2
+// counter();//3
+// counter();//4
 
 module.exports = {
   someFunc: someFunc,
